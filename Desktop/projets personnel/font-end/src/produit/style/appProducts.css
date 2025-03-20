@@ -1,0 +1,13 @@
+.title {
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.app {
+    border: 2px dashed rgb(27, 9, 162);
+    padding: 10px;
+    margin: 1px;
+    border-radius: 5px;
+    
+}

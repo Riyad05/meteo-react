@@ -1,0 +1,10 @@
+.product-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+    background-color: beige;
+    border-radius: 20px;
+    margin: 5px;
+}
